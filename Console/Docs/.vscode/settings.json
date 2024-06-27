@@ -1,0 +1,21 @@
+{
+   "editor.formatOnPaste": true,
+   "editor.formatOnType": false,
+   "diffEditor.codeLens": true,
+   "diffEditor.experimental.showMoves": true,
+   "diffEditor.hideUnchangedRegions.enabled": true,
+   "multiDiffEditor.experimental.enabled": true,
+   "editor.minimap.autohide": false,
+   "editor.suggest.localityBonus": true,
+   "editor.suggest.preview": true,
+   "editor.suggest.shareSuggestSelections": true,
+   "files.autoGuessEncoding": true,
+   "files.autoSave": "afterDelay",
+   "files.autoSaveWhenNoErrors": true,
+   "files.simpleDialog.enable": true,
+   "workbench.commandPalette.experimental.suggestCommands": true,
+   "workbench.experimental.cloudChanges.partialMatches.enabled": true,
+   "workbench.experimental.share.enabled": true,
+   "workbench.list.horizontalScrolling": true,
+   "workbench.list.smoothScrolling": true
+}
